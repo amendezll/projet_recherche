@@ -7,29 +7,26 @@
 def MAPE(y, y_) :
 
     import numpy as np
-    from math import sqrt
     
     y = np.array(y)
     y_ = np.array(y_)
     n = len(y)
-    return round((1/n)*sum((abs(y-y_)/y)), 5)
+    return round((1/n)*np.sum((abs(y-y_)/y)), 5)
 
 def MSE(y, y_) :
 
     import numpy as np
-    from math import sqrt
     
     y = np.array(y)
     y_ = np.array(y_)
     n = len(y)
-    return round((1/n)*sum(((y-y_))**2), 5)
+    return round((1/n)*np.sum(((y-y_))**2), 5)
 
 def MAE(y, y_) :
 
     import numpy as np
-    from math import sqrt
     
     y = np.array(y)
     y_ = np.array(y_)
     n = len(y)
-    return round((1/n)*sum((abs(y-y_))), 5)
+    return round((1/n)*np.sum((abs(y-y_))), 5)
