@@ -4,5 +4,5 @@ The goal of this project is to understand and replicate the results of the [pape
 
 The project was carried out using Google Colab to benefit from the integrated GPUs when training the neural networks.
 
-The **data** folder contains our generated data. The data was generated in chunks and the joined in a single file due to computational limitations.
-The **results** folder contains our trained models, which can be loaded into a notebook to make predictions, and csv files containing the trainign history and the evaluation on the test data.  
+- The **data** folder contains our generated data. The data was generated in chunks and the joined into a single file due to computational limitations.
+- The **results** folder contains our trained models, which can be loaded into a notebook to make predictions, and csv files containing the trainign history and the evaluation on the test data.  
