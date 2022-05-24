@@ -1,2 +1,2 @@
-loss,mean_squared_error,mean_absolute_error,mean_absolute_percentage_error
-1.914025233418215e-06,1.914025233418215e-06,0.0007460200577042997,0.20858025550842285
+loss,mean_absolute_error,mean_absolute_percentage_error
+2.1795333395857597e-06,0.0006576642044819891,0.18393684923648834
