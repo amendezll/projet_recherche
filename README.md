@@ -1,6 +1,6 @@
 **Disclaimer**: This repository was created in the framework of the course 'Projet Recherche' from the M1 Applied Mathematics (Université Paris-Saclay) / diplome ingénieur (ENSIIE), with equal contributions from Qian LIU and Angie MÉNDEZ LLANOS. we had the guidance of Sergio PULIDO, associate professor at the ENSIIE.  
 
-This projet consists in understanding and replicating the results of the [paper](https://doi.org/10.1186/s13362-019-0066-7).
+This projet consists in understanding and replicating the results of the [paper](https://doi.org/10.1186/s13362-019-0066-7) A neural network-based framework for financial model calibration.
 
 The project was carried out using Google Colab to benefit from the use of GPUs.
 
